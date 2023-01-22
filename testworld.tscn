@@ -3,10 +3,10 @@
 [node name="testworld" type="Node2D"]
 
 [node name="ColorRect" type="ColorRect" parent="."]
-margin_left = 85.0
-margin_top = 70.0
-margin_right = 125.0
-margin_bottom = 110.0
+margin_left = 115.0
+margin_top = 448.0
+margin_right = 155.0
+margin_bottom = 488.0
 __meta__ = {
 "_edit_use_anchors_": false
 }
